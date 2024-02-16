@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+.v{
+		background-color: lightgreen;
+		height: 40px;
+	}
+	
+	.num{
+		
+		
+		background-color: skyblue;
+		height: 70px;
+	}
+	
+	.l{
+		
+		background-color: lightgray;
+		height: 70px;
+	}
+	
+	.a{
+		
+		background-color: dodgerblue;
+		height: 40px;
+		
+	}
+	
+	.n{
+		background-color: salmon;
+		height: 70px;
+	}
